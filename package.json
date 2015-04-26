@@ -1,7 +1,7 @@
 {
 	"name": "express-app-loader",
 	"description": "Autoload modules into an Express application instance, config, models, routes, controllers etc...",
-	"version": "1.1.15",
+	"version": "0.0.1",
 	"author": {
 		"name": "João M.",
 		"email": "joaom182@hotmail.com"
